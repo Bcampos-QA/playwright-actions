@@ -1,14 +1,14 @@
 {
-  "name": "login-xp-playwright",
+  "name": "projects",
   "version": "1.0.0",
-  "description": "Projeto de testes de login com Playwright",
   "main": "index.js",
-  "directories": {
-    "test": "tests"
-  },
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "Fernando Papito",
-  "license": "MIT"
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@playwright/test": "^1.65.0",
+    "@types/node": "^26.6.6"
+  }
 }
